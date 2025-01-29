@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "5a5dae49-889b-4774-aee5-cf32b260f4c6",
+  "name": "Left-1-SquirrelPath",
+  "symbol": "bg_left_1_squirrelpath",
+  "width": 32,
+  "height": 32,
+  "imageWidth": 256,
+  "imageHeight": 256,
+  "filename": "Left-1-SquirrelPath.png",
+  "tileColors": "",
+  "autoColor": false
+}

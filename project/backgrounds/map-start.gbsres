@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "f5a921d1-dacb-41b3-a04c-f44902a89d07",
+  "name": "Map-Start",
+  "symbol": "bg_map_start",
+  "width": 32,
+  "height": 32,
+  "imageWidth": 256,
+  "imageHeight": 256,
+  "filename": "Map-Start.png",
+  "tileColors": "",
+  "autoColor": false
+}
